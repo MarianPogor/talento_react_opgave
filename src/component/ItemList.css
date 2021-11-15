@@ -1,0 +1,19 @@
+.teams_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 100px;
+}
+
+.teams__ {
+  padding: 50px;
+  background-color: aqua;
+  border-style: groove;
+}
+
+.teams_title {
+  padding: 20px;
+  color: yellow;
+  background-color: blue;
+  border-radius: 20px;
+}
